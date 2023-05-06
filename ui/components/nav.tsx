@@ -20,6 +20,7 @@ export default function () {
         { href: '/todomvc', name: 'Todos'},
         { href: '/bookings-crud', name: 'Bookings'},
         { href: '/features', name: 'Features'},
+        { href: '/formgroup', name: 'Form Group'},
     ]
 
     const { auth, attrs, signout } = useAuth()
